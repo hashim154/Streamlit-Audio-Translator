@@ -1,0 +1,5 @@
+azure
+azure-cognitiveservices-speech
+streamlit
+requests
+Pillow
